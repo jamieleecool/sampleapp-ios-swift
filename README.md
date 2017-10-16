@@ -3,6 +3,7 @@
 
 This sample Swift app and its collection of tutorials is designed to help you quickly and easily onboard to Mobile Center for iOS.
 
+
 ## This repository
 This sample Swift app has the Mobile Center SDK already integrated - all you need to do is follow the tutorials at the bottom to learn how to use each service.
 
